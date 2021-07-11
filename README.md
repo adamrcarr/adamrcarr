@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamrcarr
 - 👀 I’m interested in machine learning and deep learning.
 - 🌱 I’m currently learning well what I had only learned quickly before.
-- I'm buiding my portfolio during my summer vacation (now it's a wreck).
+- I'm building my portfolio during my summer vacation (now it's a wreck).
 - 💞️ I’m looking to collaborate on stuff later. I'm really just happy to be doing something new.
 - 📫 How to reach me @adamrcarr on twitter, or linked in available on my profile.
 
